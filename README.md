@@ -1,5 +1,7 @@
 # advent-of-code
 
+https://adventofcode.com/2023
+
 ## Setup
 Set up the venv with `python3 -m venv venv` Activate venv with `source venv/bin/activate` Verify python version after activation with `python --version`
 
