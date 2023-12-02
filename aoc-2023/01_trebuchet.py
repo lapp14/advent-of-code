@@ -43,6 +43,7 @@ def calibrate(input):
                 right -= 1
 
         sums.append(int(float(f"{row[left]}{row[right]}")))
-    print(sum(sums))
+    return sum(sums)
 
-calibrate(test_input)
+solution = calibrate(test_input)
+print(solution)
